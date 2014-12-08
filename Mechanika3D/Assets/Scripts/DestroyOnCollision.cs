@@ -5,7 +5,7 @@ public class DestroyOnCollision : MonoBehaviour {
 
 	public GameObject explosion;
 
-	void OnzEnter(Collider other)
+	void OnTriggerEnter(Collider other)
 	{
 		if (other.tag == "Enemy") 
 		{

@@ -54,4 +54,9 @@ public class PlayerController : MonoBehaviour {
 		}
 		moveSpeed = oldspeed;
 	}
+
+	void OnControllerColliderHit()
+	{
+
+	}
 }
