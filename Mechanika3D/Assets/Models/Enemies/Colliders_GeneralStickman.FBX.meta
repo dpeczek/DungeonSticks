@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: cdaf6c1e85553ea49b3c7aae52df991a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box007
+    100002: Box008
+    100004: Collider_Head
+    100006: Collider_LowerLeftArm
+    100008: Collider_LowerRightArm
+    100010: Collider_LowerRightLeg
+    100012: Collider_LowerTorso
+    100014: Collider_LowestTorso
+    100016: Collider_Neck
+    100018: Collider_UpperLeftLeg
+    100020: Collider_UpperLefttArm
+    100022: Collider_UpperRightArm
+    100024: Collider_UpperRightLeg
+    100026: Collider_UpperTorso
+    100028: ColliderLowerLeftLeg
+    100030: //RootNode
+    400000: Box007
+    400002: Box008
+    400004: Collider_Head
+    400006: Collider_LowerLeftArm
+    400008: Collider_LowerRightArm
+    400010: Collider_LowerRightLeg
+    400012: Collider_LowerTorso
+    400014: Collider_LowestTorso
+    400016: Collider_Neck
+    400018: Collider_UpperLeftLeg
+    400020: Collider_UpperLefttArm
+    400022: Collider_UpperRightArm
+    400024: Collider_UpperRightLeg
+    400026: Collider_UpperTorso
+    400028: ColliderLowerLeftLeg
+    400030: //RootNode
+    2300000: Box007
+    2300002: Box008
+    2300004: Collider_Head
+    2300006: Collider_LowerLeftArm
+    2300008: Collider_LowerRightArm
+    2300010: Collider_LowerRightLeg
+    2300012: Collider_LowerTorso
+    2300014: Collider_LowestTorso
+    2300016: Collider_Neck
+    2300018: Collider_UpperLeftLeg
+    2300020: Collider_UpperLefttArm
+    2300022: Collider_UpperRightArm
+    2300024: Collider_UpperRightLeg
+    2300026: Collider_UpperTorso
+    2300028: ColliderLowerLeftLeg
+    3300000: Box007
+    3300002: Box008
+    3300004: Collider_Head
+    3300006: Collider_LowerLeftArm
+    3300008: Collider_LowerRightArm
+    3300010: Collider_LowerRightLeg
+    3300012: Collider_LowerTorso
+    3300014: Collider_LowestTorso
+    3300016: Collider_Neck
+    3300018: Collider_UpperLeftLeg
+    3300020: Collider_UpperLefttArm
+    3300022: Collider_UpperRightArm
+    3300024: Collider_UpperRightLeg
+    3300026: Collider_UpperTorso
+    3300028: ColliderLowerLeftLeg
+    4300000: Collider_LowerRightArm
+    4300002: Collider_UpperRightArm
+    4300004: Collider_UpperLefttArm
+    4300006: Collider_LowerLeftArm
+    4300008: Box007
+    4300010: Box008
+    4300012: Collider_Head
+    4300014: Collider_Neck
+    4300016: Collider_UpperTorso
+    4300018: Collider_LowerTorso
+    4300020: Collider_LowestTorso
+    4300022: Collider_LowerRightLeg
+    4300024: ColliderLowerLeftLeg
+    4300026: Collider_UpperLeftLeg
+    4300028: Collider_UpperRightLeg
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
