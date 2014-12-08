@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 86595bd58167ac54ca7760a2b77a5269
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabPlane: {fileID: 100010, guid: 3e65245470e618343832bfc11a848446, type: 2}
+  - prefabMap: {fileID: 100000, guid: 082d506928c986e43b1a340103cc3b2a, type: 2}
+  - prefabPlayer: {fileID: 100002, guid: 1f48948e97a3f7e4c9e3a5377469812c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
