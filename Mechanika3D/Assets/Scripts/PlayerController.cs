@@ -52,6 +52,10 @@ public class PlayerController : MonoBehaviour {
 			moveSpeed=oldspeed*25;
 			yield return new WaitForSeconds(timeForSlide);
 		}
+		else if(Input.GetKeyDown("p"))
+		{
+			Debug.Break();
+		}
 		moveSpeed = oldspeed;
 	}
 

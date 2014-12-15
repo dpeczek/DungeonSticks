@@ -57,6 +57,8 @@
      <Compile Include="Assets\Scripts\EnemyHarm.cs" />
      <Compile Include="Assets\Scripts\EnemyMover.cs" />
      <Compile Include="Assets\Scripts\FP_Shooting.cs" />
+     <Compile Include="Assets\Scripts\FP_Shooting_Ray.cs" />
+     <Compile Include="Assets\Scripts\FireBall.cs" />
      <Compile Include="Assets\Scripts\InstationOnHit.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
