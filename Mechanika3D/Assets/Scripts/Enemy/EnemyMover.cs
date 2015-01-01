@@ -7,6 +7,12 @@ public class EnemyMover : MonoBehaviour
 	public NavMeshAgent nav;               // Reference to the nav mesh agent.
 	Animator anim;                      // Reference to the animator component.
 
+	public float speed = 40;
+	public float slowValue = 1;
+	private bool isSlowed = false;
+	private int slowCount = 0;
+	//private int counter=0; //zlicza ilość stunów
+
 	//Animation booleans
 	bool walking = false;
 	bool walkAttack=false;
@@ -21,12 +27,15 @@ public class EnemyMover : MonoBehaviour
 		nav = GetComponent <NavMeshAgent> ();
 		anim = GetComponentInChildren<Animator> ();
 		nav.updateRotation = true;
+		nav.angularSpeed = 15;
 	}
 	
 	
 	void Update ()
-	{
-		nav.SetDestination (player.position);
+	{	
+		if (nav.enabled == true) {
+			nav.SetDestination (player.position);
+		}
 		//player = GameObject.FindGameObjectWithTag ("Player").transform;
 		//turnMove ();
 	} 
@@ -56,7 +65,7 @@ public class EnemyMover : MonoBehaviour
 		}
 
 	}
-
+	
 	/// <summary>
 	/// Checks the distance.
 	/// </summary>
@@ -97,5 +106,33 @@ public class EnemyMover : MonoBehaviour
 */
 		float actualAngle = transform.rotation.y;
 		transform.Rotate (0.0f, actualAngle+270, 0.0f);
+	}
+
+
+	public void slowEnemy(float slow)
+	{
+		float tmpSlow = this.slowValue;
+		if (this.slowCount >= 10) { //stun gdy 10x z zrzędu oberwie z freezingTurreta w stanie zamrożenia (czyli w trakcie tych 5sec przedłużanych o kolejne trafienia - statystycznie i w praktyce trudne do osiągnięcia :D)
+			this.slowValue = 0;
+			this.slowCount = 0;
+			//this.counter+=1; //zliczanie ilosci stunów
+		} else {
+			this.slowValue = slow;
+		}
+		nav.speed = this.speed * this.slowValue;
+		this.isSlowed = true;
+		this.slowCount += 1;
+		this.Wait (5, tmpSlow);
+		//Debug.Log ("Speed: " + nav.speed + ".");
+		//Debug.Log ("Counter: " + this.counter); //info o ilosci udanych stunów
+	}
+
+	IEnumerator Wait(float duration, float tmpSlow)
+	{
+
+		yield return new WaitForSeconds(duration);   //Wait
+		this.slowValue = tmpSlow;
+		this.isSlowed = false;
+		this.slowCount = 0;
 	}
 }
