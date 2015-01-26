@@ -10,7 +10,6 @@ public class SpawnEnemy : MonoBehaviour {
 	public float StartWait=1.0f;//Początkowe oczekiwanie na rozpoczęcie spawnu
 	public float SpawnWait=1.0f;//Początkowe oczekiwanie na rozpoczęcie spawnu
 	public int spawnSize=5;//Ile będzie patyczaków
-	public
 	#endregion
 
 	void Awake(){
@@ -18,7 +17,7 @@ public class SpawnEnemy : MonoBehaviour {
 	}
 
 	void Start(){
-		StartCoroutine (SpawnWave());
+        InvokeRepeating("Spawn", 0.3f, spawnSize);
 	}
 	
 	// Update is called once per frame
@@ -26,15 +25,10 @@ public class SpawnEnemy : MonoBehaviour {
 
 	}
 
-	IEnumerator SpawnWave(){
-		yield return new WaitForSeconds(StartWait);
-			for(int i=0; i<spawnSize; i++){
-				//Spawn gdzieś w pobliżu punktu spawnu 0-2 na x i z 
-			Vector3 spawnRealPoint=new Vector3(spawnPoint.x+Random.insideUnitSphere.x * 2,0.0f,spawnPoint.z+Random.insideUnitSphere.z * 2);
-				Instantiate (SwordSergeant, spawnRealPoint, transform.rotation);
-				yield return new WaitForSeconds(spawnColldown);
-			}
+	void Spawn(){
 
+		 Vector3 spawnRealPoint=new Vector3(spawnPoint.x+Random.insideUnitSphere.x * 2,0.0f,spawnPoint.z+Random.insideUnitSphere.z * 2);
+         Instantiate (SwordSergeant, spawnRealPoint, transform.rotation);
 		
 	}
 

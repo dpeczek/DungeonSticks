@@ -23,15 +23,19 @@ public class freezingTurret : MonoBehaviour {
 	private Quaternion desiredRotation; 
 	private float aimError;
 	private Collider enemyCollider;
+	private Transform aimPosition;
+
+	public int hp=100;
 	
 	void Update () 
 	{	
 		if (myTarget) 
 		{
 			if(Time.time >= nextMoveTime)
-			{
+			{	
+				this.aimPosition=this.myTarget;
 				CalculateAimPosition(myTarget.position);
-				head.rotation=Quaternion.Lerp(head.rotation, desiredRotation, Time.deltaTime*turnSpeed);
+				head.LookAt(aimPosition);
 			}
 			
 			if(Time.time >= nextFireTime)
@@ -43,12 +47,42 @@ public class freezingTurret : MonoBehaviour {
 				myTarget=null;
 			}
 		}
+
+		if (this.hp <= 0) 
+		{
+			GameObject[] gos = GameObject.FindGameObjectsWithTag("freezingBullet");
+			freezingBullet[] activeBullets = new freezingBullet[gos.Length];
+			
+			for (int i = 0;i < gos.Length;i++)  { 
+				activeBullets[i] = gos[i].GetComponent<freezingBullet>();
+			}
+			
+			foreach(freezingBullet aB in activeBullets)
+			{
+				foreach(freezingBullet bl in myBullets)
+				{
+					if(bl != null && aB.startingPoint.position == bl.startingPoint.position)
+					{	
+						Destroy(aB);
+					}
+				}
+			}
+			foreach (Transform t in this.transform)
+			{
+				if(t.name == "Temperature")
+				{
+					t.tag="Neutral";
+				}
+			}
+			Destroy (gameObject);
+		}
 	}
 	
 	void CalculateAimPosition(Vector3 targetPosition)
-	{
-		Vector3 aimPos = new Vector3(targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
-		desiredRotation = Quaternion.LookRotation(aimPos-ShootPlace.position);
+	{	
+		if (targetPosition != null) {
+			this.aimPosition.position = new Vector3 (targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
+		}
 	}
 	
 	void CalculateAimError()
@@ -106,7 +140,7 @@ public class freezingTurret : MonoBehaviour {
 				
 				foreach(freezingBullet bl in myBullets)
 				{
-					if(bl != null && bull.startingPoint.position == bl.startingPoint.position)
+					if(hp>0 && bl != null && bull.startingPoint.position == bl.startingPoint.position)
 					{	
 						Destroy(other.gameObject);
 					}
@@ -114,5 +148,10 @@ public class freezingTurret : MonoBehaviour {
 			}
 			
 		}
-	}	
+	}
+
+	public void takeDamage(int damage)
+	{
+		this.hp -= damage;
+	}
 }

@@ -23,15 +23,23 @@ public class slowTurret : MonoBehaviour {
 	private Quaternion desiredRotation; 
 	private float aimError;
 	private Collider enemyCollider;
-	
+	private Transform aimPosition;
+
+
+	public int hp=100;
+
 	void Update () 
 	{	
 		if (myTarget) 
 		{
 			if(Time.time >= nextMoveTime)
 			{
+				this.aimPosition=this.myTarget;
 				CalculateAimPosition(myTarget.position);
-				head.rotation=Quaternion.Lerp(head.rotation, desiredRotation, Time.deltaTime*turnSpeed);
+				//II, III
+				//head.rotation=Quaternion.Lerp(head.rotation, desiredRotation, Time.deltaTime*turnSpeed);
+				//I
+				head.LookAt(myTarget);
 			}
 			
 			if(Time.time >= nextFireTime)
@@ -43,12 +51,48 @@ public class slowTurret : MonoBehaviour {
 				myTarget=null;
 			}
 		}
+		if (this.hp <= 0) 
+		{
+			GameObject[] activeBullets=GameObject.FindGameObjectsWithTag("slowBullet");
+			foreach(GameObject aB in activeBullets)
+			{
+				Destroy (aB);
+			}
+			Destroy (gameObject);
+		}
+
+		if (this.hp <= 0) 
+		{
+			GameObject[] gos = GameObject.FindGameObjectsWithTag("slowBullet");
+			Slow_bullet[] activeBullets = new Slow_bullet[gos.Length];
+			
+			for (int i = 0;i < gos.Length;i++)  { 
+				activeBullets[i] = gos[i].GetComponent<Slow_bullet>();
+			}
+			
+			foreach(Slow_bullet aB in activeBullets)
+			{
+				foreach(Slow_bullet bl in myBullets)
+				{
+					if(bl != null && aB.startingPoint.position == bl.startingPoint.position)
+					{	
+						Destroy(aB);
+					}
+				}
+			}
+			Destroy (gameObject);
+		}
 	}
 	
 	void CalculateAimPosition(Vector3 targetPosition)
 	{
-		Vector3 aimPos = new Vector3(targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
-		desiredRotation = Quaternion.LookRotation(aimPos-ShootPlace.position);
+		//I
+		if (targetPosition != null) {
+			this.aimPosition.position = new Vector3 (targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
+		}
+		//II
+		//Vector3 aimPos = new Vector3(targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
+		//desiredRotation = Quaternion.LookRotation(aimPos-ShootPlace.position);
 	}
 	
 	void CalculateAimError()
@@ -97,6 +141,7 @@ public class slowTurret : MonoBehaviour {
 		if (other.gameObject.transform == myTarget) 
 		{	
 			myTarget = null;
+			head.LookAt(new Vector3(0,0,0));
 		} 
 		if (other.gameObject.tag == "slowBullet") 
 		{	
@@ -114,5 +159,10 @@ public class slowTurret : MonoBehaviour {
 			}
 			
 		}
-	}	
+	}
+
+	public void takeDamage(int damage)
+	{
+		this.hp -= damage;
+	}
 }

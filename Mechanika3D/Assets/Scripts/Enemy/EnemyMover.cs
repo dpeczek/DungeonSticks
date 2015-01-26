@@ -112,8 +112,9 @@ public class EnemyMover : MonoBehaviour
 	public void slowEnemy(float slow)
 	{
 		float tmpSlow = this.slowValue;
-		if (this.slowCount >= 10) { //stun gdy 10x z zrzędu oberwie z freezingTurreta w stanie zamrożenia (czyli w trakcie tych 5sec przedłużanych o kolejne trafienia - statystycznie i w praktyce trudne do osiągnięcia :D)
-			this.slowValue = 0;
+		if (this.slowCount >= 10 & isSlowed) { //stun gdy 10x z zrzędu oberwie z freezingTurreta w stanie zamrożenia (czyli w trakcie tych 5sec przedłużanych o kolejne trafienia - statystycznie i w praktyce trudne do osiągnięcia :D)
+			//nav.Stop(true);
+			//this.stunTime(3);
 			this.slowCount = 0;
 			//this.counter+=1; //zliczanie ilosci stunów
 		} else {
@@ -122,17 +123,23 @@ public class EnemyMover : MonoBehaviour
 		nav.speed = this.speed * this.slowValue;
 		this.isSlowed = true;
 		this.slowCount += 1;
-		this.Wait (5, tmpSlow);
+		this.slowTime(5, tmpSlow);
 		//Debug.Log ("Speed: " + nav.speed + ".");
-		//Debug.Log ("Counter: " + this.counter); //info o ilosci udanych stunów
+		//Debug.Log ("Counter: " + this.slowCount); //info o ilosci udanych stunów
 	}
 
-	IEnumerator Wait(float duration, float tmpSlow)
+	IEnumerator slowTime(float duration, float tmpSlow)
 	{
 
 		yield return new WaitForSeconds(duration);   //Wait
 		this.slowValue = tmpSlow;
 		this.isSlowed = false;
 		this.slowCount = 0;
+	}
+
+	IEnumerator stunTime(float duration)
+	{
+		yield return new WaitForSeconds (duration);
+		this.nav.Resume();
 	}
 }

@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Elementals\Scripts\OrbitCamera.cs" />
+     <Compile Include="Assets\Elementals\Scripts\TestParticles.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\Crosshair.cs" />
      <Compile Include="Assets\Scripts\DestroByTime.cs" />
@@ -55,26 +57,54 @@
      <Compile Include="Assets\Scripts\Enemy\EnemyHarm.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMakeDamage.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMover.cs" />
+     <Compile Include="Assets\Scripts\Enemy\FirePrivateSwordScripts\FirePrivateSwordCollides.cs" />
+     <Compile Include="Assets\Scripts\Enemy\FirePrivateSwordScripts\FirePrivateSwordHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\FirePrivateSwordScripts\FirePrivateSwordMover.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralCollides.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralMover.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordCollides.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordMover.cs" />
      <Compile Include="Assets\Scripts\Enemy\SpawnEnemy.cs" />
+     <Compile Include="Assets\Scripts\Enemy\SpawningScripts\TurretPositions.cs" />
+     <Compile Include="Assets\Scripts\Enemy\SpawningScripts\TurretType.cs" />
      <Compile Include="Assets\Scripts\Enemy\StopOnEngagePlayer.cs" />
      <Compile Include="Assets\Scripts\FP_Shooting.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Turrets\BasicTurret.cs" />
      <Compile Include="Assets\Scripts\Turrets\Bullet.cs" />
      <Compile Include="Assets\Scripts\Turrets\DestroyByTime.cs" />
+     <Compile Include="Assets\Scripts\Turrets\FastShootingTurret.cs" />
      <Compile Include="Assets\Scripts\Turrets\Move.cs" />
      <Compile Include="Assets\Scripts\Turrets\Slow_bullet.cs" />
      <Compile Include="Assets\Scripts\Turrets\Turret.cs" />
+     <Compile Include="Assets\Scripts\Turrets\basicTurretCollides.cs" />
+     <Compile Include="Assets\Scripts\Turrets\fastShootingTurretCollides.cs" />
      <Compile Include="Assets\Scripts\Turrets\freezingBullet.cs" />
      <Compile Include="Assets\Scripts\Turrets\freezingBulletExplosionRange.cs" />
      <Compile Include="Assets\Scripts\Turrets\freezingTurret.cs" />
+     <Compile Include="Assets\Scripts\Turrets\freezingTurretCollides.cs" />
      <Compile Include="Assets\Scripts\Turrets\healthPoints.cs" />
      <Compile Include="Assets\Scripts\Turrets\slowBulletExplosionRange.cs" />
      <Compile Include="Assets\Scripts\Turrets\slowTurret.cs" />
+     <Compile Include="Assets\Scripts\Turrets\slowTurretCollides.cs" />
+     <Compile Include="Assets\Scripts\Turrets\sniperTurret.cs" />
+     <Compile Include="Assets\Scripts\Turrets\sniperTurretCollides.cs" />
      <Compile Include="Assets\map\scripts\IconScript.cs" />
      <Compile Include="Assets\map\scripts\cameraMove.cs" />
      <Compile Include="Assets\map\scripts\planeScript.cs" />
      <Compile Include="Assets\map\scripts\prefabSript.cs" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\KY_magicEffectsFree\ReadMe.txt" />
+     <None Include="Assets\Elementals\!Readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{EDD67F94-17F6-19CA-723C-06DD99689869}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{6C70AF3B-1F33-7869-8601-F9A7FF1E577A}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

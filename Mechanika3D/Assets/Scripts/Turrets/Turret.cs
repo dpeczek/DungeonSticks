@@ -18,12 +18,14 @@ public class Turret : MonoBehaviour {
 	private List<Bullet> myBullets = new List<Bullet> ();
 	private Bullet myTmpBullet;
 	private Bullet bull;
-	private Slow_bullet slowBull;
 	private float nextFireTime;
 	private float nextMoveTime;
 	private Quaternion desiredRotation; 
 	private float aimError;
 	private Collider enemyCollider;
+	private Transform aimPosition;
+
+	public int hp=100;
 	
 	void Update () 
 	{	
@@ -31,8 +33,10 @@ public class Turret : MonoBehaviour {
 		{
 			if(Time.time >= nextMoveTime)
 			{
+				this.aimPosition=this.myTarget;
 				CalculateAimPosition(myTarget.position);
-				head.rotation=Quaternion.Lerp(head.rotation, desiredRotation, Time.deltaTime*turnSpeed);
+				//head.rotation=Quaternion.Lerp(head.rotation, desiredRotation, Time.deltaTime*turnSpeed);
+				head.LookAt(aimPosition);
 			}
 
 			if(Time.time >= nextFireTime)
@@ -44,10 +48,42 @@ public class Turret : MonoBehaviour {
 				myTarget=null;
 			}
 		}
+
+		if (this.hp <= 0) 
+		{
+			GameObject[] gos = GameObject.FindGameObjectsWithTag("Bullet");
+			Bullet[] activeBullets = new Bullet[gos.Length];
+			
+			for (int i = 0;i < gos.Length;i++)  { 
+				activeBullets[i] = gos[i].GetComponent<Bullet>();
+			}
+
+			foreach(Bullet aB in activeBullets)
+			{
+				foreach(Bullet bl in myBullets)
+				{
+					if(hp>0 && bl != null && aB.startingPoint.position == bl.startingPoint.position)
+					{	
+						Destroy(aB);
+					}
+				}
+			}
+			foreach (Transform t in this.transform)
+			{
+				if(t.name == "Temperature")
+				{
+					t.tag="Neutral";
+				}
+			}
+			Destroy (gameObject);
+		}
 	}
 
 	void CalculateAimPosition(Vector3 targetPosition)
-	{
+	{	
+		if (targetPosition != null) {
+			this.aimPosition.position = new Vector3 (targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
+		}
 		Vector3 aimPos = new Vector3(targetPosition.x + aimError, targetPosition.y + aimError, targetPosition.z + aimError);
 		desiredRotation = Quaternion.LookRotation(aimPos-ShootPlace.position);
 	}
@@ -103,14 +139,9 @@ public class Turret : MonoBehaviour {
 		{	
 			if (other.gameObject != null)
 			{	
-				//if(other.gameObject.tag=="Bullet"){
+
 				this.bull=other.gameObject.GetComponent<Bullet>();
-				//}
-				//else if(other.gameObject.tag=="slowBullet")
-				//{
-				//	this.slowBull=other.gameObject.GetComponent<Slow_bullet>();
-				//	Debug.Log ("To był " + other.gameObject.tag.ToString());
-				//}
+
 
 				foreach(Bullet bl in myBullets)
 				{
@@ -122,6 +153,11 @@ public class Turret : MonoBehaviour {
 			}
 			
 		}
-	}	
+	}
+
+	public void takeDamage(int damage)
+	{
+		this.hp -= damage;
+	}
 }
 	
