@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 0571b59aaab32a64e8029ced3310c08d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: General_ArmL
+    100004: General_ArmR
+    100006: General_BetweenClaviclesLol
+    100008: General_ClavicleL
+    100010: General_ClavicleR
+    100012: General_HandR
+    100014: General_LowerArmL
+    100016: General_LowerArmR
+    100018: General_LowerLegL
+    100020: General_LowerLegR
+    100022: General_LowerTorso
+    100024: General_Neck
+    100026: General_Pelvis
+    100028: General_Tummy
+    100030: General_UpperArmL
+    100032: General_UpperArmR
+    100034: General_UpperLegL
+    100036: General_UpperLegR
+    100038: General_UpperTorso
+    100040: Miecz_PatyczakZwyk
+    100042: //RootNode
+    100044: PointHelper
+    400000: Box001
+    400002: General_ArmL
+    400004: General_ArmR
+    400006: General_BetweenClaviclesLol
+    400008: General_ClavicleL
+    400010: General_ClavicleR
+    400012: General_HandR
+    400014: General_LowerArmL
+    400016: General_LowerArmR
+    400018: General_LowerLegL
+    400020: General_LowerLegR
+    400022: General_LowerTorso
+    400024: General_Neck
+    400026: General_Pelvis
+    400028: General_Tummy
+    400030: General_UpperArmL
+    400032: General_UpperArmR
+    400034: General_UpperLegL
+    400036: General_UpperLegR
+    400038: General_UpperTorso
+    400040: Miecz_PatyczakZwyk
+    400042: //RootNode
+    400044: PointHelper
+    2300000: Miecz_PatyczakZwyk
+    3300000: Miecz_PatyczakZwyk
+    4300000: Box001
+    4300002: Miecz_PatyczakZwyk
+    7400000: Walking
+    7400002: WalkAttack
+    7400004: Idle
+    7400006: IdleAttack
+    7400008: Death
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: PointHelper
+        weight: 1
+      - path: PointHelper/General_Pelvis
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol/General_Neck
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL/General_LowerArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR/Miecz_PatyczakZwyk
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL/General_LowerLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR/General_LowerLegR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WalkAttack
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: PointHelper
+        weight: 1
+      - path: PointHelper/General_Pelvis
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol/General_Neck
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL/General_LowerArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR/Miecz_PatyczakZwyk
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL/General_LowerLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR/General_LowerLegR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 73
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: PointHelper
+        weight: 1
+      - path: PointHelper/General_Pelvis
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol/General_Neck
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL/General_LowerArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR/Miecz_PatyczakZwyk
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL/General_LowerLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR/General_LowerLegR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: IdleAttack
+      takeName: Take 001
+      firstFrame: 146
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: PointHelper
+        weight: 1
+      - path: PointHelper/General_Pelvis
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol/General_Neck
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL/General_LowerArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR/Miecz_PatyczakZwyk
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL/General_LowerLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR/General_LowerLegR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 176
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: PointHelper
+        weight: 1
+      - path: PointHelper/General_Pelvis
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_BetweenClaviclesLol/General_Neck
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleL/General_ArmL/General_UpperArmL/General_LowerArmL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_Tummy/General_LowerTorso/General_UpperTorso/General_ClavicleR/General_ArmR/General_UpperArmR/General_LowerArmR/General_HandR/Miecz_PatyczakZwyk
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegL/General_LowerLegL
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR
+        weight: 1
+      - path: PointHelper/General_Pelvis/General_UpperLegR/General_LowerLegR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

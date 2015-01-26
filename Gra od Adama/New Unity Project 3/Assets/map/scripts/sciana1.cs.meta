@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8bbae9195b0923d43b81645aac2ec4ed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabCamera1: {fileID: 100000, guid: 13d42e6f029bda44db9a72f873721410, type: 2}
+  - prefabMap: {fileID: 100000, guid: 082d506928c986e43b1a340103cc3b2a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -53,10 +53,13 @@
      <Compile Include="Assets\Scripts\DestroyByHit.cs" />
      <Compile Include="Assets\Scripts\DestroyByTime.cs" />
      <Compile Include="Assets\Scripts\DestroyOnCollision.cs" />
-     <Compile Include="Assets\Scripts\Enemy\EnemyCollides.cs" />
-     <Compile Include="Assets\Scripts\Enemy\EnemyHarm.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMakeDamage.cs" />
-     <Compile Include="Assets\Scripts\Enemy\EnemyMover.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralCollides.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\GeneralScripts\GeneralMover.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordCollides.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PrivateSwordScripts\PrivateSwordMover.cs" />
      <Compile Include="Assets\Scripts\Enemy\SpawnEnemy.cs" />
      <Compile Include="Assets\Scripts\Enemy\StopOnEngagePlayer.cs" />
      <Compile Include="Assets\Scripts\FP_Shooting.cs" />

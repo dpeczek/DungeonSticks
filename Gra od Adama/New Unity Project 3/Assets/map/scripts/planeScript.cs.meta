@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a60294df082d834997f173302c489a1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tex1: {fileID: 2800000, guid: 95a37da9007a9964788f9fb01cb686f4, type: 3}
+  - tex2: {fileID: 2800000, guid: c6e0767b1f8c34890ac245217f4b9731, type: 3}
+  - prefab1: {fileID: 2800000, guid: e54a239268baa434ba61b94c96a8664a, type: 3}
+  - prefab2: {fileID: 100002, guid: 6f1e53ac50a046e4b9a7bb1493fefb28, type: 2}
+  - prefab3: {fileID: 100002, guid: 91cd5b80adb9d3743aedcc6b34e2b830, type: 2}
+  - prefab3D1: {fileID: 100010, guid: 5b2b3ab6a8c8abd47b1850135c7ca6f6, type: 2}
+  - prefab3D2: {fileID: 100012, guid: f6ffe84bc1fea3c45aed540f9f506af4, type: 2}
+  - prefab3D3: {fileID: 100012, guid: 441665be0faed23499a75514bd1ad163, type: 2}
+  - prefab3D4: {fileID: 100004, guid: e0ae64c43a71d62468a972659313c292, type: 2}
+  - prefab3D5: {fileID: 100000, guid: f3240fb8a2f107343b3b1f764d93a010, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

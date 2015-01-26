@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 86595bd58167ac54ca7760a2b77a5269
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabMap: {fileID: 100000, guid: 082d506928c986e43b1a340103cc3b2a, type: 2}
+  - prefabMap2: {fileID: 127214, guid: 09bb5ef645c3ef6459fcfa36fbdead5a, type: 2}
+  - prefabMap3: {fileID: 172762, guid: b2f5033d1da3c5a41a3e941af06c4dd3, type: 2}
+  - prefabMap4: {fileID: 197152, guid: dbd071a88414bdd4c9db3904838719a5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

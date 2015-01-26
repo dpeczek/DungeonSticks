@@ -1,0 +1,3261 @@
+fileFormatVersion: 2
+guid: 52a4993f5089bf747a45c74481f41346
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone001(mirrored)
+    100004: Bone002
+    100006: Bone002(mirrored)
+    100008: Bone003
+    100010: Bone003(mirrored)
+    100012: Bone004
+    100014: Bone004(mirrored)
+    100016: Bone005
+    100018: //RootNode
+    100020: Cylinder001
+    100022: IK Chain002
+    100024: IK Chain003
+    100026: IK Chain004
+    100028: IK Chain005
+    100030: IK Chain007
+    100032: IK Chain008
+    100034: IK Chain009
+    100036: IK Chain010
+    100038: Kusza1500
+    100040: L_Fakas_0
+    100042: L_Fakas_1
+    100044: L_Fakas_2
+    100046: L_Fakas_3
+    100048: L_Kciuk_0
+    100050: L_Kciuk_1
+    100052: L_Kciuk_2
+    100054: L_Kciuk_3
+    100056: L_Maly_0
+    100058: L_Maly_1
+    100060: L_Maly_2
+    100062: L_Maly_3
+    100064: L_Nadgarstek
+    100066: L_Przedramie
+    100068: L_Ramie
+    100070: L_Serdeczny_0
+    100072: L_Serdeczny_1
+    100074: L_Serdeczny_2
+    100076: L_Serdeczny_3
+    100078: L_Wskazujacy_0
+    100080: L_Wskazujacy_1
+    100082: L_Wskazujacy_2
+    100084: L_Wskazujacy_3
+    100086: Point001
+    100088: R_Fakas_0
+    100090: R_Fakas_1(mirrored)
+    100092: R_Fakas_2(mirrored)
+    100094: R_Fakas_3(mirrored)
+    100096: R_Kciuk_0
+    100098: R_Kciuk_1(mirrored)
+    100100: R_Kciuk_2(mirrored)
+    100102: R_Kciuk_3(mirrored)
+    100104: R_Maly_0
+    100106: R_Maly_1
+    100108: R_Maly_2(mirrored)
+    100110: R_Maly_3(mirrored)
+    100112: R_Nadgarstek
+    100114: R_Przedramie
+    100116: R_Ramie
+    100118: R_Serdeczny_0
+    100120: R_Serdeczny_1
+    100122: R_Serdeczny_2(mirrored)
+    100124: R_Serdeczny_3(mirrored)
+    100126: R_Wskazujacy_0
+    100128: R_Wskazujacy_1(mirrored)
+    100130: R_Wskazujacy_2(mirrored)
+    100132: R_Wskazujacy_3(mirrored)
+    100134: Reka_Lewa
+    100136: Reka_Prawa
+    100138: Sphere001
+    100140: Sphere002
+    400000: Bone001
+    400002: Bone001(mirrored)
+    400004: Bone002
+    400006: Bone002(mirrored)
+    400008: Bone003
+    400010: Bone003(mirrored)
+    400012: Bone004
+    400014: Bone004(mirrored)
+    400016: Bone005
+    400018: //RootNode
+    400020: Cylinder001
+    400022: IK Chain002
+    400024: IK Chain003
+    400026: IK Chain004
+    400028: IK Chain005
+    400030: IK Chain007
+    400032: IK Chain008
+    400034: IK Chain009
+    400036: IK Chain010
+    400038: Kusza1500
+    400040: L_Fakas_0
+    400042: L_Fakas_1
+    400044: L_Fakas_2
+    400046: L_Fakas_3
+    400048: L_Kciuk_0
+    400050: L_Kciuk_1
+    400052: L_Kciuk_2
+    400054: L_Kciuk_3
+    400056: L_Maly_0
+    400058: L_Maly_1
+    400060: L_Maly_2
+    400062: L_Maly_3
+    400064: L_Nadgarstek
+    400066: L_Przedramie
+    400068: L_Ramie
+    400070: L_Serdeczny_0
+    400072: L_Serdeczny_1
+    400074: L_Serdeczny_2
+    400076: L_Serdeczny_3
+    400078: L_Wskazujacy_0
+    400080: L_Wskazujacy_1
+    400082: L_Wskazujacy_2
+    400084: L_Wskazujacy_3
+    400086: Point001
+    400088: R_Fakas_0
+    400090: R_Fakas_1(mirrored)
+    400092: R_Fakas_2(mirrored)
+    400094: R_Fakas_3(mirrored)
+    400096: R_Kciuk_0
+    400098: R_Kciuk_1(mirrored)
+    400100: R_Kciuk_2(mirrored)
+    400102: R_Kciuk_3(mirrored)
+    400104: R_Maly_0
+    400106: R_Maly_1
+    400108: R_Maly_2(mirrored)
+    400110: R_Maly_3(mirrored)
+    400112: R_Nadgarstek
+    400114: R_Przedramie
+    400116: R_Ramie
+    400118: R_Serdeczny_0
+    400120: R_Serdeczny_1
+    400122: R_Serdeczny_2(mirrored)
+    400124: R_Serdeczny_3(mirrored)
+    400126: R_Wskazujacy_0
+    400128: R_Wskazujacy_1(mirrored)
+    400130: R_Wskazujacy_2(mirrored)
+    400132: R_Wskazujacy_3(mirrored)
+    400134: Reka_Lewa
+    400136: Reka_Prawa
+    400138: Sphere001
+    400140: Sphere002
+    2300000: Cylinder001
+    2300002: Kusza1500
+    2300004: Sphere001
+    2300006: Sphere002
+    3300000: Cylinder001
+    3300002: Kusza1500
+    3300004: Sphere001
+    3300006: Sphere002
+    4300000: Sphere001
+    4300002: Sphere002
+    4300004: Cylinder001
+    4300006: Kusza1500
+    4300008: Reka_Prawa
+    4300010: Reka_Lewa
+    7400000: Take 001
+    7400002: CIdle
+    7400004: CWalk
+    7400006: CShoot
+    7400008: CSword
+    7400010: CPullW
+    7400012: CPullS
+    7400014: CPullA
+    7400016: CPullD
+    7400018: CMagicHBack
+    7400020: CMagicHCharge
+    7400022: CMagicHPush
+    7400024: CMagicHReturn
+    7400026: WCIdle
+    7400028: WCWalk
+    7400030: WCAttackSword
+    7400032: WCMagicHBack
+    7400034: WCMagicHCharge
+    7400036: WCMagicHPush
+    9500000: //RootNode
+    13700000: Reka_Lewa
+    13700002: Reka_Prawa
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 894
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CIdle
+      takeName: Take 001
+      firstFrame: 512
+      lastFrame: 712
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CWalk
+      takeName: Take 001
+      firstFrame: 415
+      lastFrame: 437
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CShoot
+      takeName: Take 001
+      firstFrame: 859
+      lastFrame: 867
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CSword
+      takeName: Take 001
+      firstFrame: 813
+      lastFrame: 858
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CPullW
+      takeName: Take 001
+      firstFrame: 713
+      lastFrame: 737
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CPullS
+      takeName: Take 001
+      firstFrame: 738
+      lastFrame: 762
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CPullA
+      takeName: Take 001
+      firstFrame: 763
+      lastFrame: 787
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CPullD
+      takeName: Take 001
+      firstFrame: 788
+      lastFrame: 812
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CMagicHBack
+      takeName: Take 001
+      firstFrame: 439
+      lastFrame: 449
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CMagicHCharge
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 478
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CMagicHPush
+      takeName: Take 001
+      firstFrame: 479
+      lastFrame: 511
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCIdle
+      takeName: Take 001
+      firstFrame: 99
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCWalk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCAttackSword
+      takeName: Take 001
+      firstFrame: 375
+      lastFrame: 411
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCMagicHBack
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCMagicHCharge
+      takeName: Take 001
+      firstFrame: 37
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: WCMagicHPush
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001/L_Ramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Kciuk_0/L_Kciuk_1/L_Kciuk_2/L_Kciuk_3/Bone001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Wskazujacy_0/L_Wskazujacy_1/L_Wskazujacy_2/L_Wskazujacy_3/Bone002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/L_Fakas_1/L_Fakas_2/L_Fakas_3/Bone003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Fakas_0/Point001
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Serdeczny_0/L_Serdeczny_1/L_Serdeczny_2/L_Serdeczny_3/Bone004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/L_Maly_0/L_Maly_1/L_Maly_2/L_Maly_3/Bone005
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain002
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain003
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain004
+        weight: 1
+      - path: Sphere001/L_Ramie/L_Przedramie/L_Nadgarstek/IK Chain005
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere002/R_Ramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Fakas_0/R_Fakas_1(mirrored)/R_Fakas_2(mirrored)/R_Fakas_3(mirrored)/Bone003(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/R_Maly_1/R_Maly_2(mirrored)/R_Maly_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Maly_0/IK Chain010
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Serdeczny_0/R_Serdeczny_1/R_Serdeczny_2(mirrored)/R_Serdeczny_3(mirrored)/Bone004(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/R_Wskazujacy_1(mirrored)/R_Wskazujacy_2(mirrored)/R_Wskazujacy_3(mirrored)/Bone002(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Wskazujacy_0/IK Chain007
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/R_Kciuk_0/R_Kciuk_1(mirrored)/R_Kciuk_2(mirrored)/R_Kciuk_3(mirrored)/Bone001(mirrored)
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain009
+        weight: 1
+      - path: Sphere002/R_Ramie/R_Przedramie/R_Nadgarstek/IK Chain008
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Kusza1500
+        weight: 1
+      - path: Reka_Prawa
+        weight: 1
+      - path: Reka_Lewa
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Reka_Prawa
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

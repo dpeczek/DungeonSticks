@@ -1,0 +1,12 @@
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\UnityEditor.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\UnityEngine.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\Mono.Cecil.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\nunit.framework.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\Unity.DataContract.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\obj\Debug\Assembly-CSharp.dll
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\obj\Debug\Assembly-CSharp.pdb
+D:\Moje Notatki\3 ROK\Podstawy Gier Komputerowych\REPOZYTORIUM\Mechanika3D\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache

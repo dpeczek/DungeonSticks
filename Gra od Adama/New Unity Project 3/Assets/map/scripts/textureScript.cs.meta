@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 956d2ec893580894681c5bccb19435e5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - newSprite: {fileID: 21300000, guid: b7773284a0f9c184f9d4b94c152ed41b, type: 3}
+  - newSprite1: {fileID: 21300000, guid: 5f44376a5aeddf9428693175e24b81b3, type: 3}
+  - newSprite2: {fileID: 21300000, guid: cd2ca9767ce376a4caf3e2e6166393c0, type: 3}
+  - newSprite3: {fileID: 21300000, guid: b39276b1ed4f904489cddacbdd9cb93c, type: 3}
+  - newSprite4: {fileID: 21300000, guid: f67fc1585c55deb44b9aa1e9ff6bd3ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
